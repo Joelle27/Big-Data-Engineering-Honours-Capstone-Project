@@ -2,7 +2,7 @@
 ## Green Logistics: Carbon Footprint for E-Commerce
 
 
-Capstone project for **COS 736 Big Data Engineering** (University of the Western Cape). It has two parts: a batch ETL pipeline on logistics emissions data, and a simulated real-time streaming pipeline for e-commerce transactions.
+Capstone project for **COS 736 Big Data Engineering** (University of the Western Cape). It has two parts: a batch ETL pipeline on logistics emissions data, and a simulated real-time streaming pipeline for e-commerce transactions. This project was out of 35 and I receieved 84%. 
 
 ## Projects
 
